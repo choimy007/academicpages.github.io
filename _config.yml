@@ -81,7 +81,7 @@ author:
   name             : "Minyoung Choi"
   avatar           : "profile.png"
   bio              : 
-  location         : "Portland"
+  location         : "Portland OR"
   employer         :
   googlescholar    : 
   email            :
@@ -92,12 +92,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "choimy007" 
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "rose-choi"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -110,6 +110,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+
 
 
 # Reading Files
