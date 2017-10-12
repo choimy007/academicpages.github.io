@@ -11,7 +11,7 @@ redirect_from:
 
 Resume
 ======
-[Resume.pdf](../files/Resume.pdf)
+<span style="color:blue">[Resume.pdf](../files/Resume.pdf)</span>
 
 Education
 ======
