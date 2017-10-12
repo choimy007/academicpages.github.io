@@ -1,0 +1,25 @@
+---
+title: 'Pokemon Password Generation'
+date: 2017-10-11
+permalink: /posts/2012/10/blog-post-1/
+tags:
+  - pokemon
+---
+
+I made a simple xkcd-style password generator using Pokemon names.
+So far, the only user input it takes is which generations the user wants to draw the names from.
+
+Github Repo
+======
+<span style="color:blue">[Link](https://github.com/choimy007/pokemon-password)</span>
+
+The code scraps the names from Wikipedia using Beautiful Soup for Python, 
+and generates a random sequences of 4 names.
+
+Eventual Todo
+======
+* Add customization for number of names to generate the password
+* Generate random numbers to be part of the password
+* Generate special characters to be a part of the password
+* Add trainer names?
+
